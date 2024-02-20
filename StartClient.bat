@@ -1,0 +1,2 @@
+#TIMEOUT /T 6
+start "" "C:\Program Files\Epic Games\UE_5.2\Engine\Binaries\Win64\UnrealEditor.exe" "%CD%\ShooterMulti.uproject" Lobby_MainMenu -game -ResX=850 -ResY=480 -WinX=10 -WinY=40 -WINDOWED -log -nosteam
